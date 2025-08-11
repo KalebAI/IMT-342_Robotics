@@ -1,0 +1,19 @@
+name: robotics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
+  - sympy
+  - ipykernel
+  - jupyterlab
+  - pandas
+  - networkx
+  - trimesh
+  - pip:
+      - roboticstoolbox-python
+      - spatialmath-python
+      - pybullet
