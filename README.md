@@ -1,4 +1,4 @@
-# IMT-342 Robotics • Entorno docente (ROS 2 Jazzy + Miniconda + Robotics Toolbox)
+# IMT-342 Robotics • Entorno de la asignatura (ROS 2 Jazzy + Miniconda + Robotics Toolbox)
 
 Repositorio público con scripts y guías para preparar el entorno de la asignatura **IMT-342 Robótica** en **Ubuntu 24.04** y **Windows 10/11**.
 
