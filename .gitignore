@@ -1,0 +1,46 @@
+
+# --- Python / Conda / Jupyter ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.env.*
+.ipynb_checkpoints/
+.jupyter/
+.python-version
+
+# Conda
+conda-meta/
+pkgs/
+*.conda
+*.tar.bz2
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node (por si se usa para front/rosbridge)
+node_modules/
+
+# --- ROS 2 / colcon workspaces ---
+build/
+install/
+log/
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# CMake / catkin (si aplica)
+CMakeCache.txt
+CMakeFiles/
+catkin_ws/build/
+catkin_ws/devel/
+devel/
